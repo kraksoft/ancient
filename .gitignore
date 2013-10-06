@@ -1,0 +1,17 @@
+# SCM stuff
+.arch-params
+.bzr
+CVS
+_darcs
+.git
+.hg
+.monotone
+.svn
+
+# Junk stuff
+.DS_Store
+Thumbs.db
+
+
+# Composer stuff
+composer.lock
